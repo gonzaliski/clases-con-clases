@@ -82,5 +82,6 @@ function testClaseEdificio() {
 
 function main() {
   testClaseEdificio();
+  console.log("nuevo commit desde github");
 }
 main();
